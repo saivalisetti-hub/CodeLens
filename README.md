@@ -31,5 +31,5 @@ CodeLens analyzes Python code and converts complex code-quality metrics into sim
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd codelens
+git clone https://github.com/saivalisetti-hub/CodeLens.git
+cd CodeLens
