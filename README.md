@@ -4,6 +4,9 @@ Python Code Quality & Complexity Analyzer.
 
 CodeLens analyzes Python code and converts complex code-quality metrics into simple, visual and actionable insights.
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-02 222015" src="https://github.com/user-attachments/assets/f18c65cd-9cac-4507-b433-2e45b50c786a" />
+
+
 ## ✨ Features
 
 - 📊 Code Health Score
